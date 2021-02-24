@@ -1,20 +1,23 @@
-# DevOps con Docker, Kubernetes, Jenkins y GitFlow CI/CD
-1. [Introducción](#schema0)
+## Aspectos fundamentales de DevOps
 
-20. [Introducción](#schema20)
+- **Control de versiones:** 
+  - git, svn.
+  - github, gitlab, bitbucket, mercurial.
 
-<hr>
+- **Integración continua:** 
+  - Pipelines Jenkins.
+  - Automatizar compilaciones y pruebas cuando se hace commit.
 
-<a name="schema0"></a>
+- **Entrega continua:** Suministro de software rápido y confiable en cualquier momento.
 
-# 1. Introducción
+- **Infraestructura como código:**
+  - Terraform, CloudFormation.
+  - Definición declarativa de la infraestructura mediante archivos de definición basados en texto.
+  - Permite revertir, desmontar y recrear entornos complejos.
 
+- **Supervisión y registro:**
+  - Prometheus, grafana.
+  - Monitorización, recopilación de métricas y vinculación de datos de performance.
 
-
-<hr>
-
-<a name="schema20"></a>
-
-# 20. Enlaces usados
-
-[Tutorial DevOps](https://azure.microsoft.com/es-es/overview/devops-tutorial/)
+- **Aprendizaje validado:**
+  - Análisis de datos para mejorar los procesos en cada nuevo ciclo.
